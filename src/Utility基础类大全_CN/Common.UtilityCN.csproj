@@ -732,7 +732,7 @@
       <Version>5.5.13.1</Version>
     </PackageReference>
     <PackageReference Include="log4net">
-      <Version>2.0.8</Version>
+      <Version>2.0.10</Version>
     </PackageReference>
     <PackageReference Include="Microsoft.ReportingServices.ReportViewerControl.WebForms">
       <Version>150.1404.0</Version>
